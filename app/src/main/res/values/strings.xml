@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="light_switch">Sensor Cahaya</string>
+    <string name="vicinity_switch">Sensor Jarak</string>
+    <string name="sensor_not_active">Sensor Dinonaktifkan </string>
+    <string name="start">Mulai</string>
+    <string name="end">Akhiri</string>
+    <string name="back">Kembali</string>
+
+    <string name="Gyroscope">Gyroscope</string>
+    <string name="Acceleration">Akselerasi</string>
+    <string name="Magnetic">Magnetik</string>
+    <string name="light">Cahaya</string>
+    <string name="Orientation">Orientasi</string>
+    <string name="thermometer">Thesmometer</string>
+    <string name="Proximity">Kedekatan</string>
+
+    <string name="Gyroscope_desc">Giroskop menambahkan informasi tentang rotasi perangkat di semua sumbu. Menggabungkan data ini dengan data dari akselerometer dan sensor lain memberikan informasi yang sangat akurat tentang lokasi ponsel dan apakah ponsel bergerak atau berputar pada sumbu mana pun.</string>
+    <string name="Acceleration_desc">Ini mengukur percepatan dalam tiga sumbu x, y dan z. Oleh karena itu, ponsel cerdas Anda dapat merasakan pergerakan di salah satu dari tiga sumbu dan mengubah arah dari vertikal ke horizontal atau sebaliknya, memberikan pengalaman pengguna yang lebih baik.</string>
+    <string name="Magnetic_desc">Sensor magnetik mengacu pada sensor yang mengubah ukuran dan jumlah perubahan medan magnet menjadi sinyal elektronik.</string>
+    <string name="light_desc">Cahaya sekitar dideteksi dan diukur oleh sensor ini. Sensor ini menyesuaikan kecerahan layar sesuai dengan cahaya sekitar.</string>
+    <string name="Orientation_desc">Ini digunakan untuk mengukur kekuatan dan arah medan magnet dan dengan demikian menemukan arah geografis seperti utara dan selatan. Dengan mengetahui medan magnet bumi, orientasi ponsel juga akan lebih optimal dan benar.</string>
+    <string name="thermometer_desc">Ini dapat menunjukkan kepada Anda perubahan suhu lingkungan, kelembaban relatif dan tekanan udara.</string>
+    <string name="Proximity_desc">Sensor kedekatan ponsel berfungsi saat objek apa pun mendekati ponsel tanpa memerlukan kontak fisik. Jika sensor ini mendeteksi sesuatu di sekitar ponsel atau bahkan jika tidak, berdasarkan itu fitur bawaan otomatis akan diaktifkan.</string>
+
+
+
+    <string name="max_speed">Max Speed : </string>
+    <string name="average_speed">Average Speed : </string>
+    <string name="distance">Distance : </string>
+    <string name="time">Time : </string>
+    <string name="accuracy">Accuracy : </string>
+</resources>
